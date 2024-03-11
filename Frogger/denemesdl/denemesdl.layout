@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="pencere.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="423" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="game.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8008" topLine="3" />
+		</Cursor>
+		<Folding>
+			<Collapse line="183" />
+			<Collapse line="198" />
+			<Collapse line="213" />
+			<Collapse line="221" />
+			<Collapse line="241" />
+			<Collapse line="281" />
+			<Collapse line="291" />
+			<Collapse line="301" />
+			<Collapse line="313" />
+			<Collapse line="337" />
+			<Collapse line="385" />
+			<Collapse line="406" />
+			<Collapse line="420" />
+			<Collapse line="470" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
